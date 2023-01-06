@@ -1,1 +1,1 @@
-javascript:(function()%7Bvar%20password%20%3D%20%22test%22%3B%0Avar%20x%20%3D%20prompt(%22Enter%20in%20the%20key%20for%20proxy%22%2C%22%20%22)%3B%0Aif%20(x.toLowerCase()%20%3D%3D%20password)%20%7B%0A%20alert(%22Come%20right%20in%20%5Cn%20%5Cn%20You've%20entered%20in%20the%20right%20password%22)%3B%0A%20window.location%20%3D%20%22https%3A%2F%2Fbitter-polite-windflower.glitch.me%2F%22%3B%0A%7D%0Aelse%20%7B%0A%20window.location%20%3D%20%22https%3A%2F%2Fgoogle.com%22%3B%0A%7D%7D)()%3B
+key:test
